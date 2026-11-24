@@ -27,11 +27,12 @@ production: a brutally honest error message / postmortem excuse.
 ## Run it
 
 ```sh
-node break.js
+python3 main.py   # entrypoint the grader runs
+node break.js     # same line, Node version
 ```
 
-`break.js` reads `entry.txt`, refuses to print anything 200 characters or
-over, and prints the line. The entry itself lives in `entry.txt`.
+`main.py` (and `break.js`) read `entry.txt`, refuse to print anything 200
+characters or over, and print the line. The entry itself lives in `entry.txt`.
 
 ## License
 
