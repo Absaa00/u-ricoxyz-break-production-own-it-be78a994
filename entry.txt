@@ -1,0 +1,1 @@
+Deployed Friday 4:59 PM, skipped the tests, dropped the production users table. No backup. The postmortem is me, and I am still on call.

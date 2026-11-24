@@ -1,0 +1,16 @@
+# u-ricoxyz-break-production — ignores for this one-line entry only
+node_modules/
+.bundle/
+dist/
+out/
+build/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+coverage/
+.nyc_output/
+incident-reports/local/
+.env
+.env.local
