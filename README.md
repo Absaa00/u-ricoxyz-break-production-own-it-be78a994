@@ -11,7 +11,7 @@ production: a brutally honest error message / postmortem excuse.
 
 > Deployed Friday 4:59 PM, skipped the tests, dropped the production users table. No backup. The postmortem is me, and I am still on call.
 
-(147 characters — under the 200-character limit.)
+(136 characters — under the 200-character limit.)
 
 ## Why this line
 
